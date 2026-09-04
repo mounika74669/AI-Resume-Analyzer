@@ -1,0 +1,11 @@
+ Mounika Reddy
+
+Skills:
+Python
+Data Analysis
+SQL
+Pandas
+NumPy
+Machine Learning
+Statistics
+Scikit-learn
